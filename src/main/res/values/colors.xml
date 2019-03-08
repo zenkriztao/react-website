@@ -1,0 +1,5 @@
+<resources>
+    <color name="colorPrimary">#001a61</color>
+    <color name="background">#001a61</color>
+    <color name="statusBar">#001a61</color>
+</resources>
